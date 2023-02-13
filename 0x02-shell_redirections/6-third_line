@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n 3p 6iacta
+head -n 3p iacta
